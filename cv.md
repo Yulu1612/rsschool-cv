@@ -1,10 +1,13 @@
-# Julia Glyuza
+## Julia Glyuza
 -----------
 ### Contacts:
 -----------
 **Location:** Minsk, Belarus / Batumi, Georgia
+
 **Phone:** +375 29 676-78-77 , +995-56-898-8059
+
 **Email:** lulu.glyuza@yandex.by
+
 **GitHub:** Yulu1612
 ### About me:
 -----------
