@@ -8,7 +8,7 @@
 
 **Email:** lulu.glyuza@yandex.by
 
-**GitHub:** Yulu1612
+**GitHub:** [Yulu1612][https://github.com/Yulu1612]
 ### About me:
 -----------
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
@@ -33,7 +33,7 @@ Here could be some awesome code
 * English courses Mr.Language
 * HTML Academy
 * Stepik (JavaScript or beginners)
-* Code-basics (Html, Css, JavaScript)
+* Code-basics (HTML, CSS, JavaScript)
 ### English:
 -----------
 **B1** (I studied English at courses in my hometown. Today, I actively use it in my current job)
