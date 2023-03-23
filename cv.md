@@ -8,7 +8,7 @@
 
 **Email:** lulu.glyuza@yandex.by
 
-**GitHub:** [Yulu1612][https://github.com/Yulu1612]
+**GitHub:** [Yulu1612](https://github.com/Yulu1612)
 ### About me:
 -----------
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
